@@ -1,0 +1,37 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 2em;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Timeline styles */
+#timeline {
+    margin: 4em 0;
+    padding: 2em;
+    background-color: #f8f9fa;
+}
+
+/* Footer styles */
+footer {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 2em;
+    font-weight: 700;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
