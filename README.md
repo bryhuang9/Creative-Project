@@ -1,6 +1,6 @@
 # Creative-Project
 
-This repository contains the really simple code for my creative project for my class. The site showcases significant events on a timeline that relate to Asian immigration and legislation.
+This repository contains the really simple code for my creative project for my class. The site showcases significant events on a timeline that relates to Asian immigration and legislation.
 
 
 ## Technologies Used
@@ -24,5 +24,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Brian Huang - brian.yao.huang@gmail.com
 
-Project Link: [brianhuang.dev](https://github.com/bryhuang9/Creative-Project)
+Project Link: [bryhuang9.github.io/Creative-Proejct/](https://bryhuang9.github.io/Creative-Proejct/)
 
