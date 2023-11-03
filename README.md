@@ -1,4 +1,4 @@
-# Creative-Porject
+# Creative-Project
 
 This repository contains the really simple code for my creative project for my class. The site showcases significant events on a timeline that relate to Asian immigration and legislation.
 
